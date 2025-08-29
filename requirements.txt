@@ -1,0 +1,5 @@
+numpy==2.2.6
+tensorboard==2.20.0
+torch==2.3.0+rocm6.0
+torchtext==0.18.0
+torchvision==0.18.0+rocm6.0
